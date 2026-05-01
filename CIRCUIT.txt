@@ -1,0 +1,14 @@
+Conections-
+Seeed Xiao ESP32S3 GPIO                           To
+                        4 		    touch sensor I/O
+                        5                                             OLED SDA
+                        6                                             OLED SCL
+                      3.3v                            OLED VCC, Touch sensor VCC
+                     GND                           OLED GND, Touch sensor GND
+                 Battery +                                       Switch
+                 Battery -                                       Battery -
+                
+
+
+
+Battery + to switch
